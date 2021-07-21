@@ -1,0 +1,9 @@
+name: OreGenerator
+main: com.hancho.oregenerator.OreGenerator
+version: "1.0.0"
+api: "1.0.0"
+author: Hancho
+
+commands:
+  og:
+    permission: "op"
